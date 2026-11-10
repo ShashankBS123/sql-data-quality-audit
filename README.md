@@ -45,4 +45,4 @@ This project uses a simulated retail transactions dataset created for this proje
 
 
 ## Project Status 
-In Progress
+Completed
